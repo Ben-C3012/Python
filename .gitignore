@@ -1,0 +1,19 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the build directory
+build/
+
+# Ignore the logs directory
+logs/
+
+# Ignore any file or directory named "secret"
+secret
+
+# Ignore the site-packages directory
+site-packages/
+
+.env
